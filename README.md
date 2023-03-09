@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Shreyas Patil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952opj2ys50p9g4z6btmvhs760fxcdyi35h62eheje1&rid=200w.gif&ct=g"></a>
 </p>
 
 
