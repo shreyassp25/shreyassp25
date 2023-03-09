@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end developer
 - binge shows and play sports when i'm free
 - Currently learning Web Development by Self
-- Personal website [link](shreyassp25.github.io)
+- Personal website [link](https://shreyassp25.github.io/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
