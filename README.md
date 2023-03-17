@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- binge shows and play sports when i'm free
-- Currently learning Web Development by Self
+- A passionate Self-taught Front-end developer.
+- binge shows and play sports when i'm free.
+- Currently learning python for big data analytics.
 - Personal website [link](https://shreyassp25.github.io/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]().
 
 <br><br>
 
@@ -125,7 +125,7 @@
 
 <li>
 <a href="mailto:shreyasp03@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  shreyas_patil-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  shreyassp03@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
