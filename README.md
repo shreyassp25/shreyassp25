@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>✨Hi , I'm Shreyas Patil ✨</b></h1>
+<h1 align="center"><b>📌Hi , I'm Shreyas Patil📌 </b></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952opj2ys50p9g4z6btmvhs760fxcdyi35h62eheje1&rid=200w.gif&ct=g"></a>
