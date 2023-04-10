@@ -17,9 +17,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer.
+- A passionate software developer.
 - binge shows and play sports when i'm free.
-- Currently learning python for big data analytics.
+- Currently learning python for computer vision and machine learning.
 - Personal website [link](https://shreyassp25.github.io/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]().
 
