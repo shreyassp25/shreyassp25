@@ -21,7 +21,7 @@
 - binge shows and play sports when i'm free.
 - Currently learning python for computer vision and machine learning.
 - Personal website [link](https://shreyassp25.github.io/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]().
+- I’m currently open for an Internship or a new job opportunity, this is [my resume]().
 
 <br><br>
 
