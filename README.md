@@ -19,7 +19,7 @@
 
 - A passionate software developer.
 - binge shows and play sports when i'm free.
-- Currently learning python for computer vision and machine learning.
+- Currently learning python.
 - Personal website [link](https://shreyassp25.github.io/)
 - I’m currently open for an Internship or a new job opportunity, this is [my resume]().
 
@@ -34,7 +34,7 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -64,10 +64,7 @@
 
 <br>
 
-- **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
